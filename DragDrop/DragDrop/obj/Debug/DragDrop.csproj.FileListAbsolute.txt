@@ -1,0 +1,9 @@
+C:\Users\lezhuhuanyu\Desktop\statham\DragDrop\DragDrop\obj\Debug\DragDrop.Form1.resources
+C:\Users\lezhuhuanyu\Desktop\statham\DragDrop\DragDrop\obj\Debug\DragDrop.ImageEditor.resources
+C:\Users\lezhuhuanyu\Desktop\statham\DragDrop\DragDrop\obj\Debug\DragDrop.Properties.Resources.resources
+C:\Users\lezhuhuanyu\Desktop\statham\DragDrop\DragDrop\obj\Debug\DragDrop.csproj.GenerateResource.cache
+C:\Users\lezhuhuanyu\Desktop\statham\DragDrop\DragDrop\obj\Debug\DragDrop.csproj.CoreCompileInputs.cache
+C:\Users\lezhuhuanyu\Desktop\statham\DragDrop\DragDrop\bin\Debug\DragDrop.exe
+C:\Users\lezhuhuanyu\Desktop\statham\DragDrop\DragDrop\bin\Debug\DragDrop.pdb
+C:\Users\lezhuhuanyu\Desktop\statham\DragDrop\DragDrop\obj\Debug\DragDrop.exe
+C:\Users\lezhuhuanyu\Desktop\statham\DragDrop\DragDrop\obj\Debug\DragDrop.pdb
